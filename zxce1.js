@@ -592,37 +592,37 @@ function example(a) {
         d = 0;
     switch (a) {
         case 1:
-            b = "doString can help you to find String Length!";
+            b = "This tools can help you to find String Length!";
             break;
         case 2:
-            b = "doString can help you to reverse your String!";
+            b = "This tools can help you to reverse your String!";
             break;
         case 3:
-            b = "doString can help you to find Character Count!";
+            b = "This tools can help you to find Character Count!";
             break;
         case 4:
-            b = "doString can help you to find Hidden Characters!";
+            b = "This tools can help you to find Hidden Characters!";
             break;
         case 5:
-            b = "doString is a wonderful tool, it can help you to Split String!", c = ", ";
+            b = "This tools is a wonderful tool, it can help you to Split String!", c = ", ";
             break;
         case 6:
-            b = "DOSTRING CAN HELP YOU TO CONVERT YOUR ENTIRE STRING TO LOWERCASE!";
+            b = "This tools CAN HELP YOU TO CONVERT YOUR ENTIRE STRING TO LOWERCASE!";
             break;
         case 7:
-            b = "doString can help you to convert your entire string to uppercase!";
+            b = "This tools can help you to convert your entire string to uppercase!";
             break;
         case 8:
-            b = "doString can help you to count the words in a string!";
+            b = "This tools can help you to count the words in a string!";
             break;
         case 9:
             break;
         case 10:
-            b = 1 == $("#enDecode").attr("data-type") ? "doString can help you to encode your string into base64 format and vice versa!" : "ZG9TdHJpbmcgY2FuIGhlbHAgeW91IHRvIGVuY29kZSB5b3VyIHN0cmluZyBpbnRvIGJhc2U2NCBmb3JtYXQgYW5kIHZpY2UgdmVyc2Eh";
+            b = 1 == $("#enDecode").attr("data-type") ? "This tools can help you to encode your string into base64 format and vice versa!" : "ZG9TdHJpbmcgY2FuIGhlbHAgeW91IHRvIGVuY29kZSB5b3VyIHN0cmluZyBpbnRvIGJhc2U2NCBmb3JtYXQgYW5kIHZpY2UgdmVyc2Eh";
             var d = 1;
             break;
         case 11:
-            b = 1 == $("#enDecodeUrl").attr("data-type") ? "https://dostring.com/url-encode-decode.php" : "https%3A%20%2F%2Fdostring.com%2Furl-encode-decode.php", d = 2;
+            b = 1 == $("#enDecodeUrl").attr("data-type") ? "https://zxce1.blogspot.com/url-encode-decode.php" : "https%3A%20%2F%2Fzxce1.blogspot.com%2Furl-encode-decode.php", d = 2;
             break;
         case 12:
             break;
@@ -651,13 +651,13 @@ function example(a) {
             b = '{"glossary":{"title":"example glossary","GlossDiv":{"title":"S","GlossList":{"GlossEntry":{"ID":"SGML","SortAs":"SGML","GlossTerm":"Standard Generalized Markup Language","Acronym":"SGML","Abbrev":"ISO 8879:1986","GlossDef":{"para":"A meta-markup language, used to create markup languages such as DocBook.","GlossSeeAlso":["GML","XML"]},"GlossSee":"markup"}}}}}';
             break;
         case 22:
-            b = "doString can help you to encode string into hex and vice versa!";
+            b = "This tools can help you to encode string into hex and vice versa!";
             break;
         case 23:
             b = "646f537472696e672063616e2068656c7020796f7520746f20656e636f646520737472696e6720696e746f2068657820616e64207669636520766572736121";
             break;
         case 24:
-            b = "doString can help you to encode string into binary and vice versa!";
+            b = "This tools can help you to encode string into binary and vice versa!";
             break;
         case 25:
             b = "01100100 01101111 01010011 01110100 01110010 01101001 01101110 01100111 00100000 01100011 01100001 01101110 00100000 01101000 01100101 01101100 01110000 00100000 01111001 01101111 01110101 00100000 01110100 01101111 00100000 01100101 01101110 01100011 01101111 01100100 01100101 00100000 01110011 01110100 01110010 01101001 01101110 01100111 00100000 01101001 01101110 01110100 01101111 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 01100001 01101110 01100100 00100000 01110110 01101001 01100011 01100101 00100000 01110110 01100101 01110010 01110011 01100001 00100001";
@@ -675,7 +675,7 @@ function example(a) {
             b = "1e240";
             break;
         case 30:
-            c = "doString can help you to find the occurance of a string within a string.", b = "find";
+            c = "This tools can help you to find the occurance of a string within a string.", b = "find";
             break;
         case 31:
             b = "10" == $("#htmlEncodeDecode").attr("data-type") ? "<!DOCTYPE html><html><title>HTML Tutorial</title><body><h1>This is a heading</h1><p>This is a paragraph.</p></body></html>" : "&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;title&gt;HTML Tutorial&lt;/title&gt;&lt;body&gt;&lt;h1&gt;This is a heading&lt;/h1&gt;&lt;p&gt;This is a paragraph.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;", d = 3;
@@ -688,27 +688,27 @@ function example(a) {
             b = "6011 6029 0652 3730";
             break;
         case 35:
-            b = "doString can help you to generate MD5 hash of any string.";
+            b = "This tools can help you to generate MD5 hash of any string.";
             break;
         case 36:
             break;
         case 37:
-            b = "doString can help you to remove duplicate line\ndoString can help you to remove duplicate line\nthis line is not duplicate\n";
+            b = "This tools can help you to remove duplicate line\nThis tools can help you to remove duplicate line\nthis line is not duplicate\n";
             break;
         case 38:
-            b = "doString can help you to remove empty lines\n\ncheck it out by your own\n\nthis is just an example\n";
+            b = "This tools can help you to remove empty lines\n\ncheck it out by your own\n\nthis is just an example\n";
             break;
         case 39:
-            b = "doString can help you to remove line breaks. \nCheck it out by your own, \nthis is just an example \n";
+            b = "This tools can help you to remove line breaks. \nCheck it out by your own, \nthis is just an example \n";
             break;
         case 40:
-            b = "doString can help you to    remove extra        spaces";
+            b = "This tools can help you to    remove extra        spaces";
             break;
         case 41:
-            b = "doString can help you to remove empty lines\nwe are going to remove this line\ncheck it out by your own\nthis is just an example\n", c = "we are going to remove this line";
+            b = "This tools can help you to remove empty lines\nwe are going to remove this line\ncheck it out by your own\nthis is just an example\n", c = "we are going to remove this line";
             break;
         case 42:
-            b = "doString can help you to convert ROT13 to Text and vice versa!";
+            b = "This tools can help you to convert ROT13 to Text and vice versa!";
             break;
         case 43:
             b = "qbFgevat pna uryc lbh gb pbaireg EBG13 gb Grkg naq ivpr irefn!";
@@ -723,19 +723,19 @@ function example(a) {
             b = "5K TIMING	400M	600M	800M	1000M	1200M\nIn minutes	In minutes				\n20	0:01:27	0:02:12	0:02:57	0:03:43	0:04:32\n21	0:01:31	0:02:19	0:03:07	0:03:55	0:04:46\n22	0:01:36	0:02:26	0:03:16	0:04:08	0:05:01\n23	0:01:41	0:02:34	0:03:26	0:04:20	0:05:15\n24	0:01:46	0:02:41	0:03:36	0:04:32	0:05:30\n25	0:01:51	0:02:48	0:03:45	0:04:44	0:05:44\n26	0:01:56	0:02:55	0:03:55	0:04:56	0:05:59", c = "TAB";
             break;
         case 48:
-            b = "doString can help you to remove empty lines\nwe are going to remove this line\ncheck it out by your own\nthis is just an example\n", c = "div";
+            b = "This tools can help you to remove empty lines\nwe are going to remove this line\ncheck it out by your own\nthis is just an example\n", c = "div";
             break;
         case 52:
-            b = "doString can help you to find random choice";
+            b = "This tools can help you to find random choice";
             break;
         case 53:
-            b = "doString can help you to alphabetized your text";
+            b = "This tools can help you to alphabetized your text";
             break;
         case 54:
             b = "Sed lacinia sit ultricies ipsum lorem praesent nec amet. Libero ut consectetur lorem donec vehicula sed non et ipsum quam praesent mattis et ut praesent arcu. Augue egestas sit eget consectetur mattis donec sit lacinia donec libero enim ligula libero sed.";
             break;
         case 56:
-            b = "doString can help you to remove empty lines\nwe are going to remove this line\ncheck it out by your own\nthis is just an example\n";
+            b = "This tools can help you to remove empty lines\nwe are going to remove this line\ncheck it out by your own\nthis is just an example\n";
             break;
         case 68:
             b = "Sed lacinia sit ultricies ipsum lorem praesent nec amet. Libero ut consectetur lorem donec vehicula sed non et ipsum quam praesent mattis et ut praesent arcu. Augue egestas sit eget consectetur mattis donec sit lacinia donec libero enim ligula libero sed.";
@@ -8487,7 +8487,7 @@ QRPolynomial.prototype = {
         }), $("#myTabs a").click(function (a) {
             a.preventDefault(), $(this).tab("show")
         }), $("#qrcodeCanvas").qrcode({
-            text: "doString.com"
+            text: "This tools.com"
         }), $('#outcome[rel="gp"]').each(function () {
             var a = randString($(this));
             $(this).text(a)
