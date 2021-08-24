@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<!-- SAMSUNG J2 Prime -->
+    <remote name="j2p"
+            fetch="https://github.com/almondnguyen"
+            revision="cm-14.1" />
+    <remote name="evan"
+            fetch="https://github.com/xEvaan"
+            revision="master" />
+    <remote name="github"
+            fetch="https://github.com" />
+
+    <project path="device/samsung/grandppltedx" name="android_device_samsung_grandppltedx" revision="cm-14.1" remote="j2p" />
+    <!-- <project path="kernel/samsung/grandppltedx" name="android_kernel_samsung_grandppltedx" revision="3.18.53-N" remote="j2p" /> -->
+    <project path="kernel/samsung/grandppltedx" name="G532G-Phoenix-Kernel" remote="evan" />
+    <project path="vendor/samsung" name="android_vendor_samsung_grandppltedx" revision="android-7" remote="j2p" />
+    <project path="system/bt" name="android_system_bt" remote="los" revision="cm-14.1" />
+    <project path="hardware/samsung" name="android_hardware_samsung" remote="los" revision="cm-14.1" />
+    <!-- <project path="vendor/samsung/common" name="djeman/android_vendor_samsung_common" remote="github" revision="cm-14.1" /> -->
+    <!-- Tryna something -->
+    <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" revision="cm-14.1"  remote="los" />
+</manifest>
